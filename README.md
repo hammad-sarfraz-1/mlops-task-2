@@ -88,8 +88,3 @@ Troubleshooting
    docker logs streamlit_frontend
    docker logs postgres_db
 
-Future Enhancements
--------------------
-- Implement CI/CD with GitHub Actions
-- Add authentication and user roles
-- Improve frontend UI
