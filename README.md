@@ -7,17 +7,29 @@ It is containerized using Docker and orchestrated with Docker Compose.
 Project Structure
 -----------------
 mlops-task-2/
+
 │── backend/              # FastAPI backend
+
 │   ├── main.py          # FastAPI entry point
+
 │   ├── database.py      # SQLAlchemy database connection
+
 │   ├── models.py        # Database models
+
 │   ├── routes.py        # API routes
+
 │   ├── requirements.txt # Backend dependencies
+
 │── frontend/             # Streamlit frontend
+
 │   ├── src/             # Streamlit application
+
 │   ├── app.py           # Streamlit entry point
+
 │── docker-compose.yml    # Docker Compose configuration
+
 │── Dockerfile            # Docker build file
+
 │── README.md             # Project documentation
 
 Technologies Used
