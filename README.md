@@ -45,7 +45,7 @@ Setup and Installation
 ----------------------
 1. Clone the Repository
    git clone https://github.com/hammad-sarfraz-1/mlops-task-2.git
-   cd mlops-task-2
+   
 
 2. Set Up Environment Variables
    Update database.py and docker-compose.yml if needed to match your credentials.
